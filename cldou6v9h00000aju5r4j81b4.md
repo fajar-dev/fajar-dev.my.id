@@ -78,7 +78,9 @@ if ($result->num_rows > 0) {
 
 Dengan menggunakan prepared statements, input dari pengguna akan divalidasi dan dibersihkan sebelum digunakan dalam query SQL. Ini akan memastikan bahwa perintah SQL tidak dapat dimasukkan melalui input dan mengurangi risiko serangan SQL Injection.
 
-**ingat !!** **Ini hanya satu contoh contoh sederhana**. banyak teknik sql injection lainnya yang bisa saja dapat mengakibatkan kerusakan yang lebih besar pada sistem, seperti membaca informasi rahasia, menghapus data, atau bahkan mengambil alih kendali seluruh sistem. Oleh karena itu, sangat penting untuk memastikan bahwa aplikasi web dilindungi terhadap SQL Injection.
+> **ingat, Ini hanya satu contoh contoh sederhana !!**
+
+banyak teknik sql injection lainnya yang bisa saja dapat mengakibatkan kerusakan yang lebih besar pada sistem, seperti membaca informasi rahasia, menghapus data, atau bahkan mengambil alih kendali seluruh sistem. Oleh karena itu, sangat penting untuk memastikan bahwa aplikasi web dilindungi terhadap SQL Injection.
 
 berikut beberapa tips yang aku kasih untuk mencegah serangan sql injection:
 
