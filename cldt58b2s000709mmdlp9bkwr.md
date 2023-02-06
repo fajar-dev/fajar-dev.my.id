@@ -82,5 +82,5 @@ Memahami perintah ini akan membantu Anda untuk bekerja dengan Git dengan lebih e
 okee... kesimpulannya, Git adalah alat version control yang sangat berguna dan sangat penting bagi tim pekerja yang bekerja pada proyek besar dan kompleks. Ini memungkinkan untuk bekerja secara bersama-sama dengan efisien dan memastikan bahwa semua perubahan dicatat dengan baik.
 
 *semoga membantu :)*  
-\*btw... bicarain git, jangan lupa kunjungin github ku ya hehehe  
-[*github.com/fajar-dev*](https://github.com/fajar-dev)
+*btw... bicarain git, jangan lupa kunjungin github ku ya hehehe  
+*[*github.com/fajar-dev*](https://github.com/fajar-dev)
