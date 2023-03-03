@@ -5,6 +5,7 @@ datePublished: Fri Mar 03 2023 02:16:37 GMT+0000 (Coordinated Universal Time)
 cuid: clerwmtc9000609jz5qmz000i
 slug: sql-vs-nosql-understanding-the-differences-and-advantages-of-each
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677781118691/47f9915c-2e87-40db-bf7b-db2a28af5791.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677810814152/54c2c552-db4c-4517-a0c3-6954721db38b.png
 tags: nosql, databases, sql
 
 ---
